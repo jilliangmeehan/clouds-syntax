@@ -1,0 +1,15 @@
+{
+  "name": "clouds",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "a cloudy syntax theme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/clouds-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
